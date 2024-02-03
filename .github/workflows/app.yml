@@ -46,7 +46,7 @@ jobs:
           - os: macos-latest
             arch: x86_64
             rust_target: x86_64-apple-darwin
-          - os: macos-latest
+          - os: mac-arm
             arch: aarch64
             rust_target: aarch64-apple-darwin
           - os: windows-latest
